@@ -46,8 +46,9 @@ Use the command palette to configure the device
 6. If you see this on the terminal output, all good!
 
 ![](attachment/Pasted%20image%2020240313121550.png)
-8. Flash the program on your device, pick UART as the method.
-9. Success
+
+7. Flash the program on your device, pick UART as the method.
+8. Success
 
 ![](attachment/Pasted%20image%2020240313121748.png)
 
