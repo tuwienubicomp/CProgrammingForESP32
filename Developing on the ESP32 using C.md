@@ -14,9 +14,9 @@ Make sure to [install the ESP-IDF VS Code extension](https://marketplace.visuals
 
 ### Configure the Extension
 
-![](attachment/Drawing%202024-03-13%2011.21.19.excalidraw)
+![](attachment/Drawing%202024-03-13%2011.21.19.excalidraw.png)
 
-![](attachment/Drawing%202024-03-13%2011.25.42.excalidraw)
+![](attachment/Drawing%202024-03-13%2011.25.42.excalidraw.png)
 
 ## Check the Command Palette for the New ESP-IDF Commands
 
