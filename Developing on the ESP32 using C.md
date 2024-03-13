@@ -4,7 +4,7 @@ This guide will go over the basics of programming in C of the M5Stick CPlus devi
 
 Here you can find the [specifications](https://shop.m5stack.com/products/m5stickc-plus-esp32-pico-mini-iot-development-kit?variant=43983456764161#:~:text=IoT%20development%20kit-,Specification,-Resources) of the M5Stick CPlus, along with all the sensors it contains. The backside of the device shows that the base chip is the ESP32 Pico. More details on the other parts later.
 
-![[Pasted image 20240311162438.png|500]]
+![](Pasted image 20240311162438.png)
 
 ## Install Visual Studio Code & Extension
 
