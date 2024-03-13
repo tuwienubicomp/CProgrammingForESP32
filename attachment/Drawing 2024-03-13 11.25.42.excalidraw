@@ -1,0 +1,365 @@
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Text Elements
+Pick latest stable release version
+(this is usually better) ^UEOaRFH9
+
+Pick/create a folder with no whitespaces in the name
+(this will help avoid errors in the future) ^k88C1YKR
+
+!!! If you are on a shared computer, make sure your user
+has full access to this folder, or has admin rights. ^LuS2fOGo
+
+
+# Embedded files
+d01668aebd1e20aba6a0d789288bb08f822751e5: [[Pasted Image 20240313112557_722.png]]
+
+%%
+# Drawing
+```json
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.23",
+	"elements": [
+		{
+			"id": "b_rus1dswSKHFby4S1lum",
+			"type": "image",
+			"x": -891.25,
+			"y": -432.4453125,
+			"width": 736,
+			"height": 660,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 719268728,
+			"version": 98,
+			"versionNonce": 884018552,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1710325561183,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "d01668aebd1e20aba6a0d789288bb08f822751e5",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "fofOeQie5AnSZejErKHyV",
+			"type": "arrow",
+			"x": -50.25,
+			"y": -210.4453125,
+			"width": 645,
+			"height": 7,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1738056968,
+			"version": 63,
+			"versionNonce": 143891576,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1710325570000,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-645,
+					7
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "8mYz_h-efZLCUij-H1vBf",
+			"type": "arrow",
+			"x": -121.25,
+			"y": -96.4453125,
+			"width": 431,
+			"height": 11,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1497785864,
+			"version": 47,
+			"versionNonce": 36294008,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1710325620320,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-431,
+					11
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "UEOaRFH9",
+				"focus": 0.09228212977973808,
+				"gap": 15
+			},
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "UEOaRFH9",
+			"type": "text",
+			"x": -106.25,
+			"y": -123.4453125,
+			"width": 338.7796630859375,
+			"height": 50,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 226884472,
+			"version": 80,
+			"versionNonce": 797007480,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "8mYz_h-efZLCUij-H1vBf",
+					"type": "arrow"
+				}
+			],
+			"updated": 1710325620320,
+			"link": null,
+			"locked": false,
+			"text": "Pick latest stable release version\n(this is usually better)",
+			"rawText": "Pick latest stable release version\n(this is usually better)",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 43,
+			"containerId": null,
+			"originalText": "Pick latest stable release version\n(this is usually better)",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "3D4o9v-qylojOQOqPyoiu",
+			"type": "arrow",
+			"x": -123.25,
+			"y": 31.5546875,
+			"width": 611,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 233964552,
+			"version": 142,
+			"versionNonce": 809135736,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1710325685773,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-611,
+					-25
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "k88C1YKR",
+				"focus": -0.7366435177288102,
+				"gap": 14
+			},
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "k88C1YKR",
+			"type": "text",
+			"x": -109.25,
+			"y": -8.4453125,
+			"width": 527.7196044921875,
+			"height": 50,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 28866312,
+			"version": 128,
+			"versionNonce": 1960173432,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "3D4o9v-qylojOQOqPyoiu",
+					"type": "arrow"
+				}
+			],
+			"updated": 1710325685773,
+			"link": null,
+			"locked": false,
+			"text": "Pick/create a folder with no whitespaces in the name\n(this will help avoid errors in the future)",
+			"rawText": "Pick/create a folder with no whitespaces in the name\n(this will help avoid errors in the future)",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 43,
+			"containerId": null,
+			"originalText": "Pick/create a folder with no whitespaces in the name\n(this will help avoid errors in the future)",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "LuS2fOGo",
+			"type": "text",
+			"x": -108.25,
+			"y": 57.5546875,
+			"width": 573.4395751953125,
+			"height": 50,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 2080912136,
+			"version": 164,
+			"versionNonce": 1208576520,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1710325738431,
+			"link": null,
+			"locked": false,
+			"text": "!!! If you are on a shared computer, make sure your user\nhas full access to this folder, or has admin rights.",
+			"rawText": "!!! If you are on a shared computer, make sure your user\nhas full access to this folder, or has admin rights.",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 43,
+			"containerId": null,
+			"originalText": "!!! If you are on a shared computer, make sure your user\nhas full access to this folder, or has admin rights.",
+			"lineHeight": 1.25
+		}
+	],
+	"appState": {
+		"theme": "dark",
+		"viewBackgroundColor": "#ffffff",
+		"currentItemStrokeColor": "#e03131",
+		"currentItemBackgroundColor": "transparent",
+		"currentItemFillStyle": "solid",
+		"currentItemStrokeWidth": 2,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 1,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 1,
+		"currentItemFontSize": 20,
+		"currentItemTextAlign": "left",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"scrollX": 1125.75,
+		"scrollY": 660.5546875,
+		"zoom": {
+			"value": 1
+		},
+		"currentItemRoundness": "round",
+		"gridSize": null,
+		"gridColor": {
+			"Bold": "#C9C9C9FF",
+			"Regular": "#EDEDEDFF"
+		},
+		"currentStrokeOptions": null,
+		"previousGridSize": null,
+		"frameRendering": {
+			"enabled": true,
+			"clip": true,
+			"name": true,
+			"outline": true
+		}
+	},
+	"files": {}
+}
+```
+%%

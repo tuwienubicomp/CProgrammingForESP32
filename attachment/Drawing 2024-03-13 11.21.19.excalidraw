@@ -1,0 +1,183 @@
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Text Elements
+
+# Embedded files
+f2c5cac3fc307d287b78bfccae44656fb7f39f3d: [[Pasted Image 20240313112135_065.png]]
+
+%%
+# Drawing
+```json
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.23",
+	"elements": [
+		{
+			"id": "av4_CEV-GjXfyZu9njYbe",
+			"type": "image",
+			"x": -931.25,
+			"y": -463.9453125,
+			"width": 784,
+			"height": 617,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1862683768,
+			"version": 110,
+			"versionNonce": 1917749768,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1710325286255,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "f2c5cac3fc307d287b78bfccae44656fb7f39f3d",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "nGsA4HVjMdfHNFoEoRcj6",
+			"type": "arrow",
+			"x": -60.25,
+			"y": -170.4453125,
+			"width": 224,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 618667640,
+			"version": 28,
+			"versionNonce": 1298983688,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1710325316280,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-224,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "yQK9HpVzqqt0IbEmBq72x",
+			"type": "arrow",
+			"x": -290.25,
+			"y": -177.4453125,
+			"width": 270,
+			"height": 14,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1059694600,
+			"version": 34,
+			"versionNonce": 2130893944,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1710325293083,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					270,
+					-14
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		}
+	],
+	"appState": {
+		"theme": "dark",
+		"viewBackgroundColor": "#f5faff",
+		"currentItemStrokeColor": "#e03131",
+		"currentItemBackgroundColor": "transparent",
+		"currentItemFillStyle": "solid",
+		"currentItemStrokeWidth": 2,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 1,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 1,
+		"currentItemFontSize": 20,
+		"currentItemTextAlign": "left",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"scrollX": 1125.75,
+		"scrollY": 660.5546875,
+		"zoom": {
+			"value": 1
+		},
+		"currentItemRoundness": "round",
+		"gridSize": null,
+		"gridColor": {
+			"Bold": "#8AC4FFFF",
+			"Regular": "#D1E8FFFF"
+		},
+		"currentStrokeOptions": null,
+		"previousGridSize": null,
+		"frameRendering": {
+			"enabled": true,
+			"clip": true,
+			"name": true,
+			"outline": true
+		}
+	},
+	"files": {}
+}
+```
+%%
