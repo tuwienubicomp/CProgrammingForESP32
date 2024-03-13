@@ -44,9 +44,11 @@ Use the command palette to configure the device
 4. Look at the code under /main/hello_world_main.c
 5. Build the code (remember the shortcut). This takes a while the first time.
 6. If you see this on the terminal output, all good!
+
 ![](attachment/Pasted%20image%2020240313121550.png)
-7. Flash the program on your device, pick UART as the method.
-8. Success
+8. Flash the program on your device, pick UART as the method.
+9. Success
+
 ![](attachment/Pasted%20image%2020240313121748.png)
 
 ### Which COM Port?
@@ -73,6 +75,7 @@ We can edit the configuration of this project, which holds some of the values us
 
 - Run command (ctrl + shift + p) "Configure project SDKConfig for coverage"
 - Scroll down until you see this
+  
 ![](attachment/Pasted%20image%2020240313123201.png)
 
 - We need to flash the on-board red LED. Which Pin is it?
